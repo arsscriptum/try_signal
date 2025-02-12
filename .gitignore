@@ -36,22 +36,17 @@ bin/
 
 # cmake
 
-*.sln
-*.vcxproj
-*.vcxproj.filters
-bindings/
-bindings/**
-torrent-rasterbar.dir/
-torrent-rasterbar.dir/**
-x64/
-x64/**
-Release/
-Release/**
-Debug/
-Debug/**
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
 CMakeCache.txt
-CMakeFiles/
 CMakeFiles/**
-LibtorrentRasterbar/
-LibtorrentRasterbar/**
+Debug/**
+ZERO_CHECK.vcxproj
+ZERO_CHECK.vcxproj.filters
 cmake_install.cmake
+try_signal.dir/**
+try_signal.sln
+try_signal.vcxproj
+try_signal.vcxproj.filters
+x64/**
+Release/**
