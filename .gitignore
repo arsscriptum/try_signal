@@ -32,3 +32,26 @@ bin/
 *.exe
 *.out
 *.app
+
+
+# cmake
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+bindings/
+bindings/**
+torrent-rasterbar.dir/
+torrent-rasterbar.dir/**
+x64/
+x64/**
+Release/
+Release/**
+Debug/
+Debug/**
+CMakeCache.txt
+CMakeFiles/
+CMakeFiles/**
+LibtorrentRasterbar/
+LibtorrentRasterbar/**
+cmake_install.cmake
